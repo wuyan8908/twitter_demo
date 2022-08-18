@@ -1,10 +1,10 @@
 const { TwitterApi } = require("twitter-api-v2");
 
 const client = new TwitterApi({
-  appKey: "n6s04bcsw6T9c8BZo4sz9bV3v",
-  appSecret: "QjKLOrq7wKjlNEHRktX1zcn6bO6cbLQWKqyoukOG2bVnbRLsIy",
-  accessToken: "1526029433974693888-O7zffNbwaV5IYV6uXAVMBC0XhkgBwQ",
-  accessSecret: "OH12ulVJeZZ3SNWyacx5PsQX7ifSG2hPhuURQ60zHlUot"
+  appKey: "33K5dSR2TMfKGEAZzthaEzwqM",
+  appSecret: "vtt2Lx5FOj7Qt58ADVVuCRVxtk30hUHAPcwhajMo4s1yWLYbU6",
+  accessToken: "1560254489013420033-vjMuO3Ryz9rRA8992ZVaMzhHhYSMIR",
+  accessSecret: "C8ZJUAXl0FN0QNviXX2Y1ZzWvVjIjcdTKxwfn6yZqtNAa"
 })
 
 const reClient = client.readWrite
